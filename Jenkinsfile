@@ -12,12 +12,12 @@ pipeline {
         }
         stage('Test') { 
             steps {
-                echo 'Arranca el proceso de pruebas unitarias' 
+                echo 'Arranca el proceso de pruebasgit  unitarias' 
             }
         }
         stage('Deploy') { 
             steps {
-                echo 'Desplegando al área de desarrollo' 
+                echo 'Desplegando' 
             }
         }
     }

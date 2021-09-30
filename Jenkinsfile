@@ -17,7 +17,7 @@ pipeline {
         }
         stage('Deploy') { 
             steps {
-                echo 'Desplegando pullv 55' 
+                echo 'Desplvxcvegando pullv 55' 
             }
         }
     }

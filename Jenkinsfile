@@ -17,7 +17,7 @@ pipeline {
         }
         stage('Deploy') { 
             steps {
-                echo 'Desplegando pull' 
+                echo 'Desplegando pullv 55' 
             }
         }
     }

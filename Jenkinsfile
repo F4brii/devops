@@ -14,10 +14,7 @@ pipeline {
             steps {
                 echo 'Arranca el proceso de pruebasgit  unitarias' 
             }
-        }
-        stage('Deploy') { 
-            steps {
-                echo 'Despfgsdxcvzfdvzfvzdffsdlvxcvegando pullv sdasdasd55' 
+        }cho 'Despfgsdxcvzfdvzfvzdffsdlvxcvegando pullv sdasdasd55' 
             }
         }
     }

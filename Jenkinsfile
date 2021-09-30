@@ -14,8 +14,6 @@ pipeline {
             steps {
                 echo 'Arranca el proceso de pruebasgit  unitarias' 
             }
-        }cho 'Despfgsdxcvzfdvzfvzdffsdlvxcvegando pullv sdasdasd55' 
-            }
         }
     }
 }

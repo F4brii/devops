@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "Construyendo la Aplicación"'
 		     sh '''
-                echo "Pasos múltiples de shell también funcionan"
+                echo "    Pasos múltiples de shell también funcionan"
 			    pwd
              '''
             }

@@ -13,7 +13,6 @@ pipeline {
         stage('Test') { 
             steps {
                 echo 'Arranca el proceso de pruebasgit  undsfasdfsdgfditarias' 
-            }
-        }
+         
     }
 }

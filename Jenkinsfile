@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh 'node file.js'
+                echo 'A  unitarias' 
             }
         }
         stage('Test') { 

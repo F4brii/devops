@@ -3,11 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh 'echo "Construyendo la Aplicación"'
-		     sh '''
-                echo "Pasos múltiples de shell también funcionan"
-			    pwd
-             '''
+                sh 'node file.js'
             }
         }
         stage('Test') { 

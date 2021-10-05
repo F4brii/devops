@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                echo 'A  unitarias' 
+                sh 'pwd' 
+                sh 'cd fabricio'
             }
         }
         stage('Test') { 
